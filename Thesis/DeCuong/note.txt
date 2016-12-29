@@ -1,0 +1,16 @@
+﻿- Giới hạn bài toán itemset là item đơn- thì bài toán như thế nào
+tối thứ 3, 100 trần văn quang, quận tân bình.
+
+Them pre-post vào cấu trúc dữ liệu fusp - dữ liệu click stream
+
+2016-11-15:
+Giới han bài toán.
+Bỏ FP-growth
+Thêm tài liệu tham khảo
+Related work- aprio all p 
+Theo thời gian phát triển.
+Thống nhất các thuật ngữ.
+Thống nhất mẫu tài liệu tham khảo.
+
+2016-11-26:
+
